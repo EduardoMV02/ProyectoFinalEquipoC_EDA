@@ -15,7 +15,7 @@ Este repositorio contiene el proyecto final de la materia de Ciencia de Datos en
 
 ---
 
-## 📥 Instrucciones para Reproducir el Proyecto (Revisores)
+## Instrucciones para Reproducir el Proyecto (Revisores)
 
 Por restricciones técnicas y mejores prácticas, el archivo `.gitignore` está configurado para no subir los archivos `.csv` pesados a este repositorio. Para ejecutar el cuaderno en un entorno limpio sin errores, sigue estos pasos:
 
